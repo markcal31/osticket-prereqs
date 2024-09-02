@@ -199,4 +199,4 @@ Continue Setting up osticket in the browser
 <br>- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php </b>
 </p>
 
-Congradulations!  osTicket is now ready for use!
+Congratulations!  osTicket is now ready for use!
