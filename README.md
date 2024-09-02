@@ -178,6 +178,7 @@ From the Installation Files, download and install HeidiSQL
 
 ![image](https://github.com/user-attachments/assets/5ee07609-8a68-4f46-a869-13741b60fce8)
 
+![image](https://github.com/user-attachments/assets/5b5145ae-ee5b-4167-8a1b-d8790565e128)
 
 
 <p>
@@ -187,8 +188,6 @@ Continue Setting up osticket in the browser
 </p>
 
 ![image](https://github.com/user-attachments/assets/3503152f-d028-4f26-9e29-0bb0add1b467)
-
-![image](https://github.com/user-attachments/assets/fc8aa088-fbdb-42ed-9b1f-4ace75574923)
 
 <p>
 Browse to the help desk login page: http://localhost/osTicket/scp/login.php
